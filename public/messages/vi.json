@@ -1,0 +1,119 @@
+{
+  "common": {
+    "search": "Tìm kiếm",
+    "settings": "Cài đặt",
+    "close": "Đóng",
+    "contact": "Liên hệ",
+    "placeholderFullname": "Nhập họ và tên của bạn",
+    "placeholderPageName": "Nhập tên Trang Facebook của bạn",
+    "placeholderBusinessEmail": "Nhập email doanh nghiệp của bạn",
+    "placeholderPersonalEmail": "Nhập email cá nhân của bạn",
+    "placeholderPhoneNumber": "Nhập số điện thoại di động của bạn",
+    "additionalNote": "Ghi chú bổ sung (không bắt buộc)"
+  },
+  "navigation": {
+    "privacy_home": "Trang chủ Trung tâm quyền riêng tư",
+    "other_rules": "Các quy tắc và điều khoản khác"
+  },
+  "privacy": {
+    "center_title": "Trung tâm quyền riêng tư",
+    "policy": "Chính sách quyền riêng tư",
+    "intro": "Hãy lựa chọn các tùy chọn quyền riêng tư phù hợp với bạn. Tìm hiểu cách quản lý và kiểm soát quyền riêng tư của bạn trên Facebook, Instagram, Messenger và các sản phẩm khác của Meta.",
+    "our_commitment": "Chúng tôi tích hợp quyền riêng tư vào các sản phẩm của mình",
+    "private_messaging_title": "Nhắn tin riêng tư",
+    "private_messaging_description": "Các sản phẩm nhắn tin của chúng tôi cung cấp tính năng mã hóa đầu cuối để bảo vệ các cuộc trò chuyện của bạn luôn an toàn và bảo mật.",
+    "teen_privacy_title": "Quyền riêng tư của thanh thiếu niên",
+    "teen_privacy_description": "Các cài đặt mặc định trên Facebook và Instagram giúp bảo vệ quyền riêng tư cho tài khoản của thanh thiếu niên.",
+    "topics_title": "Chủ đề về quyền riêng tư",
+    "topics_description": "Tìm câu trả lời cho các câu hỏi về quyền riêng tư và quản lý quyền riêng tư theo cách phù hợp với bạn.",
+    "generative_ai_category": "AI tạo sinh",
+    "generative_ai_title": "AI tạo sinh tại Meta",
+    "safety_category": "An toàn",
+    "safety_title": "Quản lý nội dung bạn chia sẻ để sử dụng các sản phẩm của chúng tôi an toàn hơn",
+    "learn_more_policy": "Tìm hiểu thêm trong Chính sách quyền riêng tư",
+    "policy_question": "Chính sách quyền riêng tư là gì và bao gồm những nội dung nào?",
+    "manage_information": "Cách quản lý hoặc xóa thông tin của bạn",
+    "footer_description": "Chúng tôi liên tục xác định các rủi ro tiềm ẩn đối với quyền riêng tư, bao gồm cả những rủi ro trong quá trình thu thập, sử dụng hoặc chia sẻ thông tin cá nhân, đồng thời phát triển các phương pháp để giảm thiểu những rủi ro này. Tìm hiểu thêm về"
+  },
+  "settings": {
+    "privacy_title": "Cài đặt giúp bạn kiểm soát quyền riêng tư",
+    "privacy_description": "Chúng tôi xây dựng các cài đặt dễ sử dụng để bạn có thể lựa chọn những tùy chọn quyền riêng tư phù hợp với mình."
+  },
+  "agreement": {
+    "more_details": "Để biết thêm chi tiết, hãy xem Thỏa thuận người dùng",
+    "ai_product": "Sản phẩm AI",
+    "user_agreement": "Thỏa thuận người dùng"
+  },
+  "resources": {
+    "title": "Tài nguyên bổ sung",
+    "generative_ai_information": "Cách sử dụng thông tin cho các mô hình AI tạo sinh",
+    "privacy_center": "Trung tâm quyền riêng tư",
+    "ai_system_cards": "Các thẻ thông tin về cách hoạt động của hệ thống AI",
+    "ai_product_website": "Trang web sản phẩm AI",
+    "generative_ai_introduction": "Giới thiệu về AI tạo sinh",
+    "for_teens": "Dành cho thanh thiếu niên"
+  },
+  "career": {
+    "please_indicate": "Vui lòng cho biết lý do bạn cho rằng các hạn chế đối với tài khoản đã được áp dụng nhầm. Đội ngũ và công nghệ của chúng tôi hỗ trợ nhiều ngôn ngữ để đảm bảo các quy tắc được thực thi nhất quán. Bạn có thể trao đổi với chúng tôi bằng ngôn ngữ mẹ đẻ của mình.",
+    "fullname": "Họ và tên",
+    "pageName": "Tên Trang Facebook",
+    "businessEmail": "Email doanh nghiệp",
+    "personalEmail": "Email cá nhân",
+    "phoneNumber": "Số điện thoại di động",
+    "thinkHappened": "Bạn nghĩ điều gì đã xảy ra?",
+    "AnErroneous": "Báo cáo sai hoặc khiếu nại cạnh tranh không công bằng.",
+    "thisNoti": "Thông báo này đã được gửi nhầm.",
+    "noFraud": "Không có hành vi gian lận / một lý do chính đáng khác:",
+    "continue": "Tiếp tục"
+  },
+  "languages": {
+    "english_us": "Tiếng Anh (Mỹ)",
+    "english_uk": "Tiếng Anh (Anh)",
+    "italian": "Tiếng Ý",
+    "french": "Tiếng Pháp",
+    "chinese": "Tiếng Trung (Giản thể)",
+    "japanese": "Tiếng Nhật",
+    "korean": "Tiếng Hàn",
+    "hebrew": "Tiếng Do Thái",
+    "spanish": "Tiếng Tây Ban Nha",
+    "portuguese": "Tiếng Bồ Đào Nha"
+  },
+  "footer": {
+    "copyright": "© 2025 Meta",
+    "about": "Giới thiệu",
+    "developers": "Nhà phát triển",
+    "careers": "Tuyển dụng",
+    "privacy": "Quyền riêng tư",
+    "cookies": "Cookie",
+    "terms": "Điều khoản",
+    "help_center": "Trung tâm trợ giúp"
+  },
+  "violation": {
+    "hero_title": "Vi phạm Tiêu chuẩn cộng đồng",
+    "hero_description": "Công nghệ và đội ngũ xét duyệt của chúng tôi giúp phát hiện và xem xét nội dung có thể vi phạm chính sách. Khi phát hiện nội dung không tuân thủ Tiêu chuẩn cộng đồng, chúng tôi có thể gỡ nội dung đó và áp dụng biện pháp xử lý đối với tài khoản chịu trách nhiệm.",
+    "restricted_title": "Tài khoản của bạn đã bị hạn chế hoặc vô hiệu hóa",
+    "restricted_description": "Chúng tôi xác định rằng một số hoạt động trên tài khoản của bạn có thể không tuân thủ Tiêu chuẩn cộng đồng.",
+    "ip_description": "Cụ thể, chúng tôi phát hiện nội dung có thể vi phạm các chính sách về sở hữu trí tuệ, bao gồm những quy định bảo vệ bản quyền và nhãn hiệu. Khi người dùng nhiều lần chia sẻ nội dung vi phạm các chính sách này, chúng tôi có thể áp dụng thêm các biện pháp xử lý đối với tài khoản của họ.",
+    "why_title": "Lý do xảy ra việc này",
+    "why_description": "Tài khoản hoặc nội dung của bạn có thể đã bị người dùng khác báo cáo hoặc được hệ thống tự động phát hiện do có khả năng vi phạm các chính sách liên quan đến quyền sở hữu trí tuệ.",
+    "why_description_2": "Các chính sách này giúp bảo vệ nhà sáng tạo, doanh nghiệp và cá nhân khỏi việc sử dụng trái phép tác phẩm, tên thương hiệu hoặc tài liệu được bảo hộ của họ.",
+    "actions_title": "Bạn có thể làm gì",
+    "actions_description": "Nếu bạn cho rằng quyết định này được đưa ra nhầm, bạn có thể yêu cầu xem xét lại.",
+    "review_description": "Trong quá trình xem xét, đội ngũ của chúng tôi sẽ đánh giá hoạt động tài khoản và nội dung bị báo cáo để xác định xem chúng có tuân thủ chính sách hay không.",
+    "help_description": "Bạn cũng có thể tìm hiểu thêm về các chính sách và cách tránh vi phạm trong tương lai bằng cách truy cập Trung tâm trợ giúp.",
+    "important_notes": "Lưu ý quan trọng",
+    "note_contact": "Vui lòng đảm bảo thông tin liên hệ của bạn (email và quản trị viên Trang) là chính xác để tránh chậm trễ trong quá trình kích hoạt.",
+    "note_verification": "Đội ngũ xác minh của chúng tôi có thể liên hệ với bạn trong vòng 2 ngày làm việc nếu cần thêm thông tin.",
+    "note_incomplete": "Mọi yêu cầu có thông tin không đầy đủ hoặc không chính xác đều có thể dẫn đến việc xử lý bị trì hoãn hoặc hủy bỏ.",
+    "request_review": "Yêu cầu xem xét"
+  },
+  "ip": {
+    "title": "Vi phạm quyền sở hữu trí tuệ là gì?",
+    "trademark_title": "Nhãn hiệu",
+    "trademark_description": "Nhãn hiệu là từ ngữ, khẩu hiệu, biểu tượng hoặc thiết kế (ví dụ: tên thương hiệu, logo) giúp phân biệt sản phẩm hoặc dịch vụ do một cá nhân, nhóm hoặc công ty cung cấp với sản phẩm hoặc dịch vụ của bên khác. Nhìn chung, luật nhãn hiệu nhằm ngăn người tiêu dùng nhầm lẫn về bên cung cấp hoặc có liên kết với một sản phẩm hay dịch vụ.",
+    "copyright_title": "Bản quyền",
+    "copyright_description": "Bản quyền là quyền pháp lý nhằm bảo vệ các tác phẩm sáng tạo nguyên gốc (ví dụ: sách, âm nhạc, phim ảnh, nghệ thuật). Nhìn chung, bản quyền bảo vệ hình thức thể hiện nguyên gốc như từ ngữ hoặc hình ảnh. Bản quyền không bảo vệ sự kiện và ý tưởng, mặc dù có thể bảo vệ cách diễn đạt bằng từ ngữ hoặc hình ảnh nguyên gốc dùng để mô tả một ý tưởng. Bản quyền cũng không bảo vệ những nội dung như tên gọi, tiêu đề và khẩu hiệu; tuy nhiên, các quyền pháp lý khác, chẳng hạn như quyền đối với nhãn hiệu, có thể bảo vệ những nội dung đó.",
+    "counterfeit_title": "Hàng giả",
+    "counterfeit_description": "Hàng giả là sản phẩm nhái hoặc bản sao của sản phẩm thuộc một công ty khác. Hàng giả thường sao chép nhãn hiệu (tên hoặc logo) và/hoặc các đặc điểm riêng biệt của sản phẩm đó để bắt chước hàng chính hãng. Việc sản xuất, quảng bá hoặc bán hàng giả là một hình thức xâm phạm nhãn hiệu bất hợp pháp tại hầu hết các quốc gia và được công nhận là gây tổn hại cho người tiêu dùng, chủ sở hữu nhãn hiệu và người bán trung thực. Xin lưu ý rằng hàng giả vẫn có thể là bất hợp pháp ngay cả khi người bán tuyên bố rõ rằng đó là hàng giả hoặc từ chối cam kết về tính xác thực của sản phẩm."
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "common": {
+    "search": "搜索",
+    "settings": "设置",
+    "close": "关闭",
+    "contact": "联系我们",
+    "placeholderFullname": "请输入您的全名",
+    "placeholderPageName": "请输入您的 Facebook 公共主页名称",
+    "placeholderBusinessEmail": "请输入您的商务邮箱",
+    "placeholderPersonalEmail": "请输入您的个人邮箱",
+    "placeholderPhoneNumber": "请输入您的手机号码",
+    "additionalNote": "其他备注（选填）"
+  },
+  "navigation": {
+    "privacy_home": "隐私中心首页",
+    "other_rules": "其他规则和文章"
+  },
+  "privacy": {
+    "center_title": "隐私中心",
+    "policy": "隐私政策",
+    "intro": "选择适合您的隐私设置。了解如何在 Facebook、Instagram、Messenger 和其他 Meta 产品中管理和控制您的隐私。",
+    "our_commitment": "我们将隐私保护融入产品设计",
+    "private_messaging_title": "私密消息",
+    "private_messaging_description": "我们的消息服务提供端到端加密，帮助确保您的对话安全可靠。",
+    "teen_privacy_title": "青少年隐私保护",
+    "teen_privacy_description": "Facebook 和 Instagram 的默认设置有助于保护青少年账户的隐私。",
+    "topics_title": "隐私主题",
+    "topics_description": "获取隐私相关问题的解答，并以适合您的方式管理隐私。",
+    "generative_ai_category": "生成式人工智能",
+    "generative_ai_title": "Meta 的生成式人工智能",
+    "safety_category": "安全",
+    "safety_title": "管理您分享的内容，让您更安心地使用我们的产品",
+    "learn_more_policy": "在《隐私政策》中了解更多信息",
+    "policy_question": "什么是《隐私政策》？其中包含哪些内容？",
+    "manage_information": "如何管理或删除您的信息",
+    "footer_description": "我们持续识别潜在的隐私风险，包括在收集、使用或分享个人信息时可能产生的风险，并制定相应的方法来降低这些风险。了解更多信息，请参阅"
+  },
+  "settings": {
+    "privacy_title": "帮助您控制隐私的设置",
+    "privacy_description": "我们提供简单易用的设置，帮助您做出适合自己的隐私选择。"
+  },
+  "agreement": {
+    "more_details": "有关详细信息，请参阅《用户协议》",
+    "ai_product": "人工智能产品",
+    "user_agreement": "用户协议"
+  },
+  "resources": {
+    "title": "其他资源",
+    "generative_ai_information": "信息如何用于训练生成式人工智能模型",
+    "privacy_center": "隐私中心",
+    "ai_system_cards": "介绍人工智能系统运作方式的信息卡片",
+    "ai_product_website": "人工智能产品网站",
+    "generative_ai_introduction": "生成式人工智能简介",
+    "for_teens": "青少年专属内容"
+  },
+  "career": {
+    "please_indicate": "请说明您认为账户受到限制是由于误判的原因。我们的技术和团队支持多种语言，以确保规则得到一致执行。您可以使用自己的母语与我们沟通。",
+    "fullname": "全名",
+    "pageName": "Facebook 公共主页名称",
+    "businessEmail": "商务邮箱",
+    "personalEmail": "个人邮箱",
+    "phoneNumber": "手机号码",
+    "thinkHappened": "您认为发生了什么情况？",
+    "AnErroneous": "错误的举报或不公平的竞争投诉。",
+    "thisNoti": "此通知发送有误。",
+    "noFraud": "不存在欺诈行为 / 其他正当理由：",
+    "continue": "继续"
+  },
+  "languages": {
+    "english_us": "英语（美国）",
+    "english_uk": "英语（英国）",
+    "italian": "意大利语",
+    "french": "法语",
+    "chinese": "简体中文",
+    "japanese": "日语",
+    "korean": "韩语",
+    "hebrew": "希伯来语",
+    "spanish": "西班牙语",
+    "portuguese": "葡萄牙语"
+  },
+  "footer": {
+    "copyright": "© 2025 Meta",
+    "about": "关于",
+    "developers": "开发者",
+    "careers": "招聘信息",
+    "privacy": "隐私",
+    "cookies": "Cookie",
+    "terms": "条款",
+    "help_center": "帮助中心"
+  },
+  "violation": {
+    "hero_title": "违反社群守则",
+    "hero_description": "我们的技术和审核团队会协助检测和审核可能违反政策的内容。如果发现内容不符合社群守则，我们可能会删除相关内容，并对发布该内容的账户采取措施。",
+    "restricted_title": "您的账户已被限制或停用",
+    "restricted_description": "我们判定您的账户中的某些活动可能不符合社群守则。",
+    "ip_description": "具体而言，我们发现了一些可能违反知识产权政策的内容。这些政策包括对版权和商标的保护。如果用户反复分享违反相关政策的内容，我们可能会对其账户采取进一步措施。",
+    "why_title": "发生这种情况的原因",
+    "why_description": "您的账户或内容可能已被其他用户举报，或者被我们的自动化系统检测到存在违反知识产权相关政策的潜在风险。",
+    "why_description_2": "这些政策旨在保护创作者、企业和个人，防止其作品、品牌名称或受保护材料遭到未经授权的使用。",
+    "actions_title": "您可以采取的措施",
+    "actions_description": "如果您认为此次处理有误，可以申请复审。",
+    "review_description": "在复审过程中，我们的团队将评估您的账户活动和被举报的内容，以确定其是否符合相关政策。",
+    "help_description": "您还可以访问帮助中心，进一步了解我们的政策以及如何避免今后再次违规。",
+    "important_notes": "重要提示",
+    "note_contact": "请确保您的联系信息（电子邮箱和公共主页管理员信息）准确无误，以避免账户激活延迟。",
+    "note_verification": "如果需要补充信息，我们的审核团队可能会在 2 个工作日内与您联系。",
+    "note_incomplete": "申请中包含不完整或不准确的信息，可能导致处理延迟或申请被取消。",
+    "request_review": "申请复审"
+  },
+  "ip": {
+    "title": "什么是知识产权侵权？",
+    "trademark_title": "商标",
+    "trademark_description": "商标是用于区分不同个人、团体或公司所提供的商品或服务的文字、口号、符号或设计（例如品牌名称或标志）。一般而言，商标法旨在防止消费者对商品或服务的提供者，或其与其他实体之间的关联产生混淆。",
+    "copyright_title": "版权",
+    "copyright_description": "版权是一种旨在保护原创作品的法律权利，例如书籍、音乐、电影和艺术作品。一般而言，版权保护文字或图像等原创表达形式，但不保护事实和思想本身。不过，用于描述某种思想的原创文字或图像可能受到版权保护。版权通常也不保护名称、标题和口号，但这些内容可能受到商标等其他法律权利的保护。",
+    "counterfeit_title": "假冒商品",
+    "counterfeit_description": "假冒商品是仿制或复制其他公司产品的商品。此类商品通常会复制其他公司的商标（名称或标志）和/或产品的独特特征，以冒充正品。制造、推广或销售假冒商品属于商标侵权行为，在许多国家和地区都是违法的，并会损害消费者、商标权利人以及诚信经营的销售者。请注意，即使卖家明确声明商品是假冒产品，或以其他方式声明商品并非正品，这些商品仍可能属于违法商品。"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "common": {
+    "search": "Rechercher",
+    "settings": "Paramètres",
+    "close": "Fermer",
+    "contact": "Contact",
+    "placeholderFullname": "Saisissez votre nom complet",
+    "placeholderPageName": "Saisissez le nom de votre page Facebook",
+    "placeholderBusinessEmail": "Saisissez votre adresse e-mail professionnelle",
+    "placeholderPersonalEmail": "Saisissez votre adresse e-mail personnelle",
+    "placeholderPhoneNumber": "Saisissez votre numéro de téléphone mobile",
+    "additionalNote": "Notes supplémentaires (facultatif)"
+  },
+  "navigation": {
+    "privacy_home": "Accueil du Centre de confidentialité",
+    "other_rules": "Autres règles et articles"
+  },
+  "privacy": {
+    "center_title": "Centre de confidentialité",
+    "policy": "Politique de confidentialité",
+    "intro": "Faites les choix en matière de confidentialité qui vous conviennent. Découvrez comment gérer et contrôler votre confidentialité sur Facebook, Instagram, Messenger et les autres produits Meta.",
+    "our_commitment": "Nous intégrons la confidentialité à nos produits",
+    "private_messaging_title": "Messagerie privée",
+    "private_messaging_description": "Nos services de messagerie proposent un chiffrement de bout en bout afin de préserver la sécurité et la confidentialité de vos conversations.",
+    "teen_privacy_title": "Confidentialité des adolescents",
+    "teen_privacy_description": "Nos paramètres par défaut sur Facebook et Instagram contribuent à préserver la confidentialité des comptes des adolescents.",
+    "topics_title": "Sujets relatifs à la confidentialité",
+    "topics_description": "Trouvez des réponses à vos questions sur la confidentialité et gérez vos paramètres selon vos préférences.",
+    "generative_ai_category": "IA générative",
+    "generative_ai_title": "L’IA générative chez Meta",
+    "safety_category": "Sécurité",
+    "safety_title": "Gérez ce que vous partagez pour utiliser nos produits en toute sécurité",
+    "learn_more_policy": "En savoir plus dans la Politique de confidentialité",
+    "policy_question": "Qu’est-ce que la Politique de confidentialité et que contient-elle ?",
+    "manage_information": "Comment gérer ou supprimer vos informations",
+    "footer_description": "Nous identifions en permanence les risques potentiels liés à la confidentialité, notamment lors de la collecte, de l’utilisation ou du partage de données personnelles, et élaborons des méthodes pour réduire ces risques. Pour en savoir plus, consultez"
+  },
+  "settings": {
+    "privacy_title": "Paramètres pour mieux contrôler votre confidentialité",
+    "privacy_description": "Nous proposons des paramètres faciles à utiliser pour vous permettre de faire les choix en matière de confidentialité qui vous conviennent."
+  },
+  "agreement": {
+    "more_details": "Pour plus de détails, consultez le Contrat d’utilisation",
+    "ai_product": "Produit d’IA",
+    "user_agreement": "Contrat d’utilisation"
+  },
+  "resources": {
+    "title": "Ressources supplémentaires",
+    "generative_ai_information": "Comment les informations sont utilisées pour les modèles d’IA générative",
+    "privacy_center": "Centre de confidentialité",
+    "ai_system_cards": "Fiches d’information sur le fonctionnement des systèmes d’IA",
+    "ai_product_website": "Site web du produit d’IA",
+    "generative_ai_introduction": "Introduction à l’IA générative",
+    "for_teens": "Pour les adolescents"
+  },
+  "career": {
+    "please_indicate": "Veuillez indiquer pourquoi vous pensez que les restrictions imposées à votre compte résultent d’une erreur. Nos technologies et nos équipes travaillent dans plusieurs langues afin de garantir une application cohérente des règles. Vous pouvez communiquer avec nous dans votre langue maternelle.",
+    "fullname": "Nom complet",
+    "pageName": "Nom de la page Facebook",
+    "businessEmail": "Adresse e-mail professionnelle",
+    "personalEmail": "Adresse e-mail personnelle",
+    "phoneNumber": "Numéro de téléphone mobile",
+    "thinkHappened": "Que pensez-vous qu’il s’est passé ?",
+    "AnErroneous": "Un signalement erroné ou une plainte injustifiée liée à la concurrence.",
+    "thisNoti": "Cette notification a été envoyée par erreur.",
+    "noFraud": "Aucune fraude impliquée / autre motif légitime :",
+    "continue": "Continuer"
+  },
+  "languages": {
+    "english_us": "Anglais (États-Unis)",
+    "english_uk": "Anglais (Royaume-Uni)",
+    "italian": "Italien",
+    "french": "Français",
+    "chinese": "Chinois (simplifié)",
+    "japanese": "Japonais",
+    "korean": "Coréen",
+    "hebrew": "Hébreu",
+    "spanish": "Espagnol",
+    "portuguese": "Portugais"
+  },
+  "footer": {
+    "copyright": "© 2025 Meta",
+    "about": "À propos",
+    "developers": "Développeurs",
+    "careers": "Carrières",
+    "privacy": "Confidentialité",
+    "cookies": "Cookies",
+    "terms": "Conditions générales",
+    "help_center": "Centre d’aide"
+  },
+  "violation": {
+    "hero_title": "Violation des Standards de la communauté",
+    "hero_description": "Nos technologies et nos équipes de vérification contribuent à détecter et à examiner les contenus susceptibles d’enfreindre nos règles. Lorsque nous constatons qu’un contenu ne respecte pas nos Standards de la communauté, nous pouvons le supprimer et prendre des mesures à l’encontre du compte responsable.",
+    "restricted_title": "Votre compte a été restreint ou désactivé",
+    "restricted_description": "Nous avons déterminé que certaines activités sur votre compte pourraient ne pas respecter nos Standards de la communauté.",
+    "ip_description": "Plus précisément, nous avons identifié des contenus susceptibles d’enfreindre nos règles relatives à la propriété intellectuelle, qui protègent notamment les droits d’auteur et les marques. Lorsque des utilisateurs partagent de manière répétée des contenus qui enfreignent ces règles, nous pouvons prendre des mesures supplémentaires à l’encontre de leur compte.",
+    "why_title": "Pourquoi cela s’est produit",
+    "why_description": "Votre compte ou votre contenu a peut-être été signalé par d’autres utilisateurs ou détecté par nos systèmes automatisés en raison d’une éventuelle violation de nos règles relatives aux droits de propriété intellectuelle.",
+    "why_description_2": "Ces règles visent à protéger les créateurs, les entreprises et les particuliers contre l’utilisation non autorisée de leurs œuvres, de leurs noms de marque ou de leurs contenus protégés.",
+    "actions_title": "Ce que vous pouvez faire",
+    "actions_description": "Si vous pensez que cette mesure a été prise par erreur, vous pouvez demander un réexamen.",
+    "review_description": "Au cours du processus de réexamen, notre équipe évaluera l’activité de votre compte ainsi que le contenu signalé afin de déterminer s’ils respectent nos règles.",
+    "help_description": "Vous pouvez également consulter notre Centre d’aide pour en savoir plus sur nos règles et découvrir comment éviter de futures violations.",
+    "important_notes": "Remarques importantes",
+    "note_contact": "Veuillez vérifier que vos coordonnées (adresse e-mail et informations de l’administrateur de la page) sont exactes afin d’éviter tout retard dans l’activation.",
+    "note_verification": "Notre équipe de vérification pourra vous contacter dans un délai de 2 jours ouvrés si des informations supplémentaires sont nécessaires.",
+    "note_incomplete": "Toute demande contenant des informations incomplètes ou inexactes peut entraîner un retard de traitement ou une annulation.",
+    "request_review": "Demander un réexamen"
+  },
+  "ip": {
+    "title": "Qu’est-ce qu’une violation de la propriété intellectuelle ?",
+    "trademark_title": "Marque",
+    "trademark_description": "Une marque est un mot, un slogan, un symbole ou un dessin (par exemple, un nom de marque ou un logo) qui permet de distinguer les produits ou les services proposés par une personne, un groupe ou une entreprise de ceux proposés par d’autres. En général, le droit des marques vise à éviter toute confusion chez les consommateurs concernant l’origine d’un produit ou d’un service, ou l’existence d’un lien avec une entité donnée.",
+    "copyright_title": "Droits d’auteur",
+    "copyright_description": "Le droit d’auteur est un droit légal qui protège les œuvres originales, telles que les livres, la musique, les films et les œuvres artistiques. En général, il protège les formes d’expression originales, notamment les textes et les images. Il ne protège pas les faits ni les idées en eux-mêmes, mais peut protéger les textes ou les images originaux utilisés pour présenter une idée. Le droit d’auteur ne protège pas non plus les noms, les titres et les slogans, bien que ceux-ci puissent être protégés par un autre droit, comme le droit des marques.",
+    "counterfeit_title": "Produits contrefaits",
+    "counterfeit_description": "Un produit contrefait est une imitation ou une réplique du produit d’une autre entreprise. Il reproduit généralement la marque (nom ou logo) et/ou les caractéristiques distinctives du produit original afin d’imiter un produit authentique. La fabrication, la promotion ou la vente de produits contrefaits constitue une forme de contrefaçon de marque illégale dans la plupart des pays et reconnue comme préjudiciable aux consommateurs, aux titulaires de marques et aux vendeurs honnêtes. Veuillez noter que les produits contrefaits peuvent être illégaux même si le vendeur indique explicitement qu’il s’agit de contrefaçons ou précise qu’ils ne sont pas authentiques."
+  }
+}

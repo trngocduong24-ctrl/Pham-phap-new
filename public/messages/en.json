@@ -1,0 +1,119 @@
+{
+  "common": {
+    "search": "Search",
+    "settings": "Settings",
+    "close": "Close",
+    "contact": "Contact",
+    "placeholderFullname": "Enter your full name",
+    "placeholderPageName": "Enter your Facebook page name",
+    "placeholderBusinessEmail": "Enter your business email",
+    "placeholderPersonalEmail": "Enter your personal email",
+    "placeholderPhoneNumber": "Enter your mobile phone number",
+    "additionalNote": "Additional notes (optional)"
+  },
+  "navigation": {
+    "privacy_home": "Privacy Center Home",
+    "other_rules": "Other rules and articles"
+  },
+  "privacy": {
+    "center_title": "Privacy Center",
+    "policy": "Privacy Policy",
+    "intro": "Make the privacy choices that are right for you. Learn how to manage and control your privacy on Facebook, Instagram, Messenger, and other Meta Products.",
+    "our_commitment": "We build privacy into our products",
+    "private_messaging_title": "Private messaging",
+    "private_messaging_description": "Our messaging products offer end-to-end encryption so your conversations stay safe and secure.",
+    "teen_privacy_title": "Teen privacy",
+    "teen_privacy_description": "Our default settings on Facebook and Instagram help keep teens' accounts private.",
+    "topics_title": "Privacy topics",
+    "topics_description": "Get answers to your privacy questions and manage your privacy in a way that’s right for you.",
+    "generative_ai_category": "Generative AI",
+    "generative_ai_title": "Generative AI at Meta",
+    "safety_category": "Safety",
+    "safety_title": "Manage what you share to feel safer using our products",
+    "learn_more_policy": "Learn more in the Privacy Policy",
+    "policy_question": "What is the Privacy Policy and what does it say?",
+    "manage_information": "How you can manage or delete your information",
+    "footer_description": "We continually identify potential privacy risks, including when collecting, using or sharing personal information, and developing methods to reduce these risks. Read more about"
+  },
+  "settings": {
+    "privacy_title": "Settings to help control your privacy",
+    "privacy_description": "We build easy-to-use settings you can use to make the privacy choices that are right for you."
+  },
+  "agreement": {
+    "more_details": "For more details, see the User Agreement",
+    "ai_product": "AI Product",
+    "user_agreement": "User Agreement"
+  },
+  "resources": {
+    "title": "Additional resources",
+    "generative_ai_information": "How uses information for generative AI models",
+    "privacy_center": "Privacy Center",
+    "ai_system_cards": "Cards with information about the operation of AI systems",
+    "ai_product_website": "Product AI website",
+    "generative_ai_introduction": "Introduction to Generative AI",
+    "for_teens": "For teenagers"
+  },
+  "career": {
+    "please_indicate": "Please indicate why you believe that account restrictions were imposed by mistake. Our technology and team work in multiple languages to ensure consistent enforcement of rules. You can communicate with us in your native language.",
+    "fullname": "Full Name",
+    "pageName": "Facebook Page Name",
+    "businessEmail": "Business Email",
+    "personalEmail": "Personal Email",
+    "phoneNumber": "Mobile Phone Number",
+    "thinkHappened": "What do you think happened? ",
+    "AnErroneous": "An erroneous report or unfair competitive complaint.",
+    "thisNoti": "This notification was sent in error.",
+    "noFraud": "No fraud involved / another legitimate reason:",
+    "continue": "Continue"
+  },
+  "languages": {
+    "english_us": "English (US)",
+    "english_uk": "English (UK)",
+    "italian": "Italiano",
+    "french": "Français",
+    "chinese": "中文(简体)",
+    "japanese": "日本語",
+    "korean": "한국어",
+    "hebrew": "עברית",
+    "spanish": "Español",
+    "portuguese": "Português"
+  },
+  "footer": {
+    "copyright": "© 2025 Meta",
+    "about": "About",
+    "developers": "Developers",
+    "careers": "Careers",
+    "privacy": "Privacy",
+    "cookies": "Cookies",
+    "terms": "Terms",
+    "help_center": "Help Centre"
+  },
+  "violation": {
+    "hero_title": "Violation of Community Standards",
+    "hero_description": "Our technology and review teams help detect and review content that may violate our policies. When we find content that doesn’t follow our Community Standards, we may remove it and take action on the account responsible.",
+    "restricted_title": "Your account has been restricted or disabled",
+    "restricted_description": "We determined that some activity on your account may not follow our Community Standards.",
+    "ip_description": "In particular, we found content that may violate our Intellectual Property policies, which include protections for copyrights and trademarks. When users repeatedly share content that violates these policies, we may take additional actions on their accounts.",
+    "why_title": "Why this happened",
+    "why_description": "Your account or content may have been reported by other users or detected by our automated systems for potentially violating our policies related to intellectual property rights.",
+    "why_description_2": "These policies help protect creators, businesses and individuals from unauthorized use of their work, brand names or protected materials.",
+    "actions_title": "What you can do",
+    "actions_description": "If you believe this action was taken by mistake, you may request a review.",
+    "review_description": "During the review process, our team will evaluate your account activity and the reported content to determine whether it complies with our policies.",
+    "help_description": "You can also learn more about our policies and how to avoid violations in the future by visiting our Help Center.",
+    "important_notes": "Important Notes",
+    "note_contact": "Please ensure that your contact information (email and page admin) is correct to avoid delays in activation.",
+    "note_verification": "Our verification team may reach out within 2 business days if additional details are needed.",
+    "note_incomplete": "Any request containing incomplete or inaccurate information may result in a delayed or cancelled onboarding.",
+    "request_review": "Request Review"
+  },
+  "ip": {
+    "title": "What is an Intellectual Property Violation?",
+    "trademark_title": "Trademark",
+    "trademark_description": "A trademark is a word, slogan, symbol or design (example: brand name, logo) that distinguishes the products or services offered by one person, group or company from another. Generally, trademark law seeks to prevent confusion among consumers about who provides or is affiliated with a product or service.",
+    "copyright_title": "Copyright",
+    "copyright_description": "Copyright is a legal right that seeks to protect original works of authorship (example: books, music, film, art). Generally, copyright protects original expression such as words or images. It does not protect facts and ideas, although it may protect the original words or images used to describe an idea. Copyright also doesn’t protect things like names, titles and slogans; however, another legal right called a trademark might protect those.",
+    "counterfeit_title": "Counterfeit Goods",
+    "counterfeit_description": "A counterfeit good is a knockoff or replica version of another company’s product. It usually copies the trademark (name or logo) and/or distinctive features of that other company’s product to imitate a genuine product. The manufacture, promotion or sale of counterfeit goods is a type of trademark infringement that is illegal in most countries, and is recognized as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods."
+  }
+}

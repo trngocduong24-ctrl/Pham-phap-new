@@ -1,0 +1,119 @@
+{
+  "common": {
+    "search": "검색",
+    "settings": "설정",
+    "close": "닫기",
+    "contact": "문의하기",
+    "placeholderFullname": "성명을 입력하세요",
+    "placeholderPageName": "Facebook 페이지 이름을 입력하세요",
+    "placeholderBusinessEmail": "비즈니스 이메일 주소를 입력하세요",
+    "placeholderPersonalEmail": "개인 이메일 주소를 입력하세요",
+    "placeholderPhoneNumber": "휴대전화 번호를 입력하세요",
+    "additionalNote": "추가 메모(선택 사항)"
+  },
+  "navigation": {
+    "privacy_home": "개인정보 보호 센터 홈",
+    "other_rules": "기타 규정 및 문서"
+  },
+  "privacy": {
+    "center_title": "개인정보 보호 센터",
+    "policy": "개인정보 처리방침",
+    "intro": "자신에게 적합한 개인정보 보호 설정을 선택하세요. Facebook, Instagram, Messenger 및 기타 Meta 제품에서 개인정보를 관리하고 제어하는 방법을 알아보세요.",
+    "our_commitment": "제품에 개인정보 보호 기능을 적용합니다",
+    "private_messaging_title": "비공개 메시지",
+    "private_messaging_description": "당사의 메시징 제품은 종단 간 암호화를 제공하여 대화의 안전과 보안을 유지합니다.",
+    "teen_privacy_title": "청소년 개인정보 보호",
+    "teen_privacy_description": "Facebook과 Instagram의 기본 설정은 청소년 계정을 비공개로 유지하는 데 도움이 됩니다.",
+    "topics_title": "개인정보 보호 주제",
+    "topics_description": "개인정보 보호에 관한 궁금증을 해결하고 자신에게 적합한 방식으로 개인정보를 관리하세요.",
+    "generative_ai_category": "생성형 AI",
+    "generative_ai_title": "Meta의 생성형 AI",
+    "safety_category": "안전",
+    "safety_title": "공유하는 정보를 관리하여 더욱 안전하게 제품 이용하기",
+    "learn_more_policy": "개인정보 처리방침에서 자세히 알아보기",
+    "policy_question": "개인정보 처리방침이란 무엇이며 어떤 내용을 담고 있나요?",
+    "manage_information": "내 정보를 관리하거나 삭제하는 방법",
+    "footer_description": "당사는 개인정보의 수집, 이용 또는 공유 과정에서 발생할 수 있는 잠재적인 개인정보 보호 위험을 지속적으로 파악하고 이러한 위험을 줄이기 위한 방법을 개발합니다. 자세한 내용은 다음을 참조하세요."
+  },
+  "settings": {
+    "privacy_title": "개인정보 보호를 위한 설정",
+    "privacy_description": "자신에게 적합한 개인정보 보호 설정을 선택할 수 있도록 사용하기 쉬운 설정 기능을 제공합니다."
+  },
+  "agreement": {
+    "more_details": "자세한 내용은 사용자 계약을 참조하세요",
+    "ai_product": "AI 제품",
+    "user_agreement": "사용자 계약"
+  },
+  "resources": {
+    "title": "추가 자료",
+    "generative_ai_information": "생성형 AI 모델을 위한 정보 이용 방법",
+    "privacy_center": "개인정보 보호 센터",
+    "ai_system_cards": "AI 시스템 작동 방식에 관한 정보 카드",
+    "ai_product_website": "AI 제품 웹사이트",
+    "generative_ai_introduction": "생성형 AI 소개",
+    "for_teens": "청소년을 위한 정보"
+  },
+  "career": {
+    "please_indicate": "계정 제한 조치가 실수로 적용되었다고 생각하는 이유를 알려주세요. 당사는 여러 언어로 일관된 규칙 집행을 보장하기 위해 기술과 전문 팀을 활용합니다. 모국어로 문의하실 수 있습니다.",
+    "fullname": "성명",
+    "pageName": "Facebook 페이지 이름",
+    "businessEmail": "비즈니스 이메일",
+    "personalEmail": "개인 이메일",
+    "phoneNumber": "휴대전화 번호",
+    "thinkHappened": "어떤 일이 발생했다고 생각하시나요?",
+    "AnErroneous": "잘못된 신고 또는 부당한 경쟁 관련 이의 제기입니다.",
+    "thisNoti": "이 알림은 실수로 발송되었습니다.",
+    "noFraud": "부정행위가 없습니다 / 기타 정당한 사유:",
+    "continue": "계속"
+  },
+  "languages": {
+    "english_us": "영어(미국)",
+    "english_uk": "영어(영국)",
+    "italian": "이탈리아어",
+    "french": "프랑스어",
+    "chinese": "중국어(간체)",
+    "japanese": "일본어",
+    "korean": "한국어",
+    "hebrew": "히브리어",
+    "spanish": "스페인어",
+    "portuguese": "포르투갈어"
+  },
+  "footer": {
+    "copyright": "© 2025 Meta",
+    "about": "Meta 소개",
+    "developers": "개발자",
+    "careers": "채용 정보",
+    "privacy": "개인정보 보호",
+    "cookies": "쿠키",
+    "terms": "약관",
+    "help_center": "고객 센터"
+  },
+  "violation": {
+    "hero_title": "커뮤니티 규정 위반",
+    "hero_description": "당사의 기술과 검토 팀은 정책을 위반할 가능성이 있는 콘텐츠를 탐지하고 검토합니다. 커뮤니티 규정을 준수하지 않는 콘텐츠가 발견되면 해당 콘텐츠를 삭제하고 관련 계정에 조치를 취할 수 있습니다.",
+    "restricted_title": "계정이 제한되었거나 비활성화되었습니다",
+    "restricted_description": "회원님의 계정에서 발생한 일부 활동이 커뮤니티 규정을 준수하지 않을 가능성이 있다고 판단했습니다.",
+    "ip_description": "특히 저작권 및 상표권 보호를 포함한 지식재산권 정책을 위반할 가능성이 있는 콘텐츠가 발견되었습니다. 이용자가 이러한 정책을 위반하는 콘텐츠를 반복적으로 공유하는 경우 계정에 추가 조치가 취해질 수 있습니다.",
+    "why_title": "이러한 조치가 취해진 이유",
+    "why_description": "회원님의 계정 또는 콘텐츠가 다른 이용자에 의해 신고되었거나 지식재산권 관련 정책을 위반할 가능성이 있는 것으로 자동화 시스템에 의해 감지되었을 수 있습니다.",
+    "why_description_2": "이러한 정책은 창작자, 기업 및 개인의 저작물, 브랜드 이름 또는 보호 대상 자료가 무단으로 사용되지 않도록 보호하기 위한 것입니다.",
+    "actions_title": "취할 수 있는 조치",
+    "actions_description": "해당 조치가 실수로 적용되었다고 생각하는 경우 재검토를 요청할 수 있습니다.",
+    "review_description": "재검토 과정에서 담당 팀은 회원님의 계정 활동과 신고된 콘텐츠를 검토하여 정책 준수 여부를 판단합니다.",
+    "help_description": "향후 위반을 방지하는 방법과 관련 정책에 대한 자세한 내용은 고객 센터에서 확인할 수 있습니다.",
+    "important_notes": "중요 안내",
+    "note_contact": "활성화 지연을 방지하려면 연락처 정보(이메일 및 페이지 관리자 정보)가 정확한지 확인하세요.",
+    "note_verification": "추가 정보가 필요한 경우 검토 팀에서 영업일 기준 2일 이내에 연락할 수 있습니다.",
+    "note_incomplete": "정보가 불완전하거나 부정확한 요청은 처리 지연 또는 취소로 이어질 수 있습니다.",
+    "request_review": "재검토 요청"
+  },
+  "ip": {
+    "title": "지식재산권 침해란 무엇인가요?",
+    "trademark_title": "상표",
+    "trademark_description": "상표는 개인, 단체 또는 기업이 제공하는 상품이나 서비스를 다른 상품이나 서비스와 구별하는 단어, 슬로건, 기호 또는 디자인(예: 브랜드 이름이나 로고)입니다. 일반적으로 상표법은 상품이나 서비스를 제공하는 주체 또는 관련 업체에 대해 소비자가 혼동하지 않도록 하는 것을 목적으로 합니다.",
+    "copyright_title": "저작권",
+    "copyright_description": "저작권은 책, 음악, 영화, 예술 작품 등 독창적인 저작물을 보호하는 법적 권리입니다. 일반적으로 저작권은 글이나 이미지와 같은 독창적인 표현을 보호하지만 사실이나 아이디어 자체를 보호하지는 않습니다. 다만 아이디어를 설명하는 데 사용된 독창적인 글이나 이미지는 보호받을 수 있습니다. 또한 이름, 제목 및 슬로건은 일반적으로 저작권의 보호 대상이 아니지만 상표와 같은 다른 법적 권리로 보호받을 수 있습니다.",
+    "counterfeit_title": "위조 상품",
+    "counterfeit_description": "위조 상품은 다른 회사의 제품을 모방한 모조품 또는 복제품입니다. 일반적으로 정품을 모방하기 위해 다른 회사의 상표(이름이나 로고) 또는 제품의 독특한 특징을 복제합니다. 위조 상품의 제조, 홍보 또는 판매는 상표권 침해에 해당할 수 있으며 많은 국가에서 불법입니다. 또한 소비자, 상표권 소유자 및 정직한 판매자에게 피해를 주는 행위로 간주됩니다. 판매자가 해당 상품이 위조품임을 명시하거나 정품이 아니라고 고지하더라도 위조 상품의 판매는 불법일 수 있습니다."
+  }
+}
